@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\bin\Debug\GraphicDvInterface2.exe.config
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\bin\Debug\GraphicDvInterface2.exe
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\bin\Debug\GraphicDvInterface2.pdb
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.Form1.resources
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.exe
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvInterface2\GraphicDvInterface2\obj\Debug\GraphicDvInterface2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicDvInterface2", "GraphicDvInterface2\GraphicDvInterface2.csproj", "{DC9CA52B-D4A3-43C3-83B6-11D615E6B982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9CA52B-D4A3-43C3-83B6-11D615E6B982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9CA52B-D4A3-43C3-83B6-11D615E6B982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9CA52B-D4A3-43C3-83B6-11D615E6B982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9CA52B-D4A3-43C3-83B6-11D615E6B982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF3E015-783B-4104-B99B-A5B1051B1427}
+	EndGlobalSection
+EndGlobal

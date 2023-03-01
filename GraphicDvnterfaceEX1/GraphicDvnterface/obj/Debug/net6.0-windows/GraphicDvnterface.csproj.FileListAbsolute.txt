@@ -1,0 +1,17 @@
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\bin\Debug\net6.0-windows\GraphicDvnterface.exe
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\bin\Debug\net6.0-windows\GraphicDvnterface.deps.json
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\bin\Debug\net6.0-windows\GraphicDvnterface.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\bin\Debug\net6.0-windows\GraphicDvnterface.dll
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\bin\Debug\net6.0-windows\GraphicDvnterface.pdb
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.Form1.resources
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.dll
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\refint\GraphicDvnterface.dll
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.pdb
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\GraphicDvnterface.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\CodeLearn\C#\GraphicDvnterface\GraphicDvnterface\obj\Debug\net6.0-windows\ref\GraphicDvnterface.dll
